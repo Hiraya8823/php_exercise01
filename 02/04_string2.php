@@ -2,7 +2,7 @@
 
 $num = 9;
 
-$result = $num - 4.5;
+$result = $num / 2;
 
 $result++;
 
